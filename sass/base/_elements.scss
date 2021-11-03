@@ -80,7 +80,7 @@ body {
   "header header header"
   ".      main   .     "
   "footer footer footer";
-
+grid-template-columns: 1fr 1fr 1fr;
 }
 
 // Show focus styles on keyboard focus
