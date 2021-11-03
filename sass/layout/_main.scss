@@ -1,0 +1,5 @@
+$component-name: "l-main";
+.#{$component-name}{
+    background-color: green;
+    grid-area: main;
+}
